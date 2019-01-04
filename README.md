@@ -4,6 +4,9 @@
 
 Boilerplate for React Development with Redux, Firebase, SCSS, Webpack, Babel 7, Polyfill, Express, Jest, Enzyme, ESLint, Prettier, and more.
 
+## Requirements
+Node 10.14.1 LTS due to Firebase dependency.
+
 ## Dependencies
 
 Yarn add will install the following dependencies. Modify to taste.
