@@ -2,7 +2,7 @@
 
 ## Overview
 
-Boilerplate for React Development with Redux, Firebase, SCSS, Webpack, Babel 7, Polyfill, Express, Jest, Enzyme, ESLint, Prettier, etc.
+Boilerplate for React Development with Redux, Firebase, SCSS, Webpack, Babel 7, Polyfill, Express, Jest, Enzyme, ESLint, Prettier, and more.
 
 ## Dependencies
 
