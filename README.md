@@ -1,13 +1,13 @@
 # React Boilerplate V2
 
-## Overview
+### Overview
 
 Boilerplate for React Development with Redux, Firebase, SCSS, Webpack, Babel 7, Polyfill, Express, Jest, Enzyme, ESLint, Prettier, and more.
 
-## Requirements
+### Requirements
 Node 10.14.1 LTS due to Firebase dependency.
 
-## Dependencies
+### Dependencies
 
 Yarn add will install the following dependencies. Modify to taste.
 
